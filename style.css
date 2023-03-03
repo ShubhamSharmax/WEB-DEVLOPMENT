@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lightskyblue;
+    
+}
+
+.container{
+    display: grid;
+}
+
+.items{
+    font-size: 1.5rem;
+    margin: 10px;
+    width: auto;
+    padding-top: 20vh;
+    padding-left: 10px;
+    padding-bottom: 20vh;
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+.head{
+    text-align: center;
+    font-size: 2.5rem;
+    color: blue;
+    
+}
+
+table, td, th{
+    text-align: center;
+    border: 1px solid black;
+}
